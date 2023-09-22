@@ -1,0 +1,10 @@
+body {
+    background-color: #1465;
+}
+#corpo {
+    background-color: blueviolet;
+    border-radius: 1px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
